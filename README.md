@@ -1,6 +1,6 @@
-# cordova-plugin-checker
+# cordova-plugin-package-checker
 
-Checks app version
+Gets an app version
 
 ### Install
 cordova plugin add https://github.com/intelliwavemobile/cordova-package-checker.git
