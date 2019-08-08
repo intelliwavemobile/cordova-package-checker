@@ -2,6 +2,8 @@
 
 Checks app version
 
+### Install
+cordova plugin add https://github.com/intelliwavemobile/cordova-package-checker.git
 
 ### getAppVersion(appPackageName)
 
