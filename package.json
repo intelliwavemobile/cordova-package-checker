@@ -1,0 +1,15 @@
+{
+  "name": "sitesense_mobile_cordova_packagechecker",
+  "version": "1.0.0",
+  "description": "Checks whether Android System WebView is enabled or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://hwang@stash.intelliwave.ca/scm/ss/sitesense.cordova.packagechecker.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
